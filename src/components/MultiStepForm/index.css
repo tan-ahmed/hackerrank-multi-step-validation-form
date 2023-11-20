@@ -1,0 +1,10 @@
+button {
+    width: 7em; 
+}
+
+.error-message {
+    color: red;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+}
